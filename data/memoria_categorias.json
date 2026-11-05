@@ -1,0 +1,718 @@
+{
+ "COS-0904": [
+  "ACCESORIOS BELLEZA",
+  "COSMETIQUERAS"
+ ],
+ "COS-1252": [
+  "ACCESORIOS BELLEZA",
+  "COSMETIQUERAS"
+ ],
+ "COS-1254": [
+  "ACCESORIOS BELLEZA",
+  "COSMETIQUERAS"
+ ],
+ "ES-0239": [
+  "ACCESORIOS BELLEZA",
+  "ESPEJOS"
+ ],
+ "PF-1469": [
+  "ACCESORIOS BELLEZA",
+  "PERFUMES"
+ ],
+ "PE-0711": [
+  "ACCESORIOS PELO ",
+  "CEPILLOS"
+ ],
+ "BO-B164": [
+  "BOLSOS ",
+  "CARTERAS / NIÑAS"
+ ],
+ "LLA-0906": [
+  "HOGAR",
+  "LLAVEROS"
+ ],
+ "A-A271": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A296": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A372SM": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A373": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A374": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A385": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-A409": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-G261": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-N304": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-N313": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-N314": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-N317": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-N326": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A138": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A145": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A154": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A194M/S": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A196MS": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A248": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-P364": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-P493": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "C-N384": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ME-B080": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ME-B752": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "RL-1225": [
+  "HOGAR",
+  "RELOJES"
+ ],
+ "RL-1226": [
+  "HOGAR",
+  "RELOJES"
+ ],
+ "RL-1228": [
+  "HOGAR",
+  "RELOJES"
+ ],
+ "RL-1229": [
+  "HOGAR",
+  "RELOJES"
+ ],
+ "TE-0798": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "TE-1235": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "PE-1249": [
+  "JUGUETES ",
+  "PELUCHES"
+ ],
+ "LAP-1173": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS "
+ ],
+ "LAP-1175": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS "
+ ],
+ "MQ-1171": [
+  "MAQUILLAJE",
+  "NIÑA"
+ ],
+ "MQ-1172": [
+  "MAQUILLAJE",
+  "NIÑA"
+ ],
+ "PT-1484": [
+  "MAQUILLAJE",
+  "NIÑA"
+ ],
+ "PT-1485": [
+  "MAQUILLAJE",
+  "NIÑA"
+ ],
+ "SO-1472": [
+  "MAQUILLAJE",
+  "NIÑA"
+ ],
+ "AGE-1008": [
+  "PAPELERIA",
+  "LIBRETAS / CARPETA / PEGATINAS"
+ ],
+ "AGE-1009": [
+  "PAPELERIA",
+  "LIBRETAS / CARPETA / PEGATINAS"
+ ],
+ "TAN-11": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "ARC3806": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "JUB-135": [
+  "JOYERIA",
+  "JUEGOS"
+ ],
+ "CAD-308": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-349": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-383": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "AZ060-5": [
+  "JOYERIA",
+  "PULSERAS / AROS / PULSERA / PANDORA"
+ ],
+ "BAM-1": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BAM-6": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BJ2502-19": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-340": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "TP-400": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "TOP-105": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "CAD-305": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-343": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BFC-135": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BJ2502-22": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "CAM-719": [
+  "JOYERIA",
+  "PULSERAS / AROS / PULSERA / PANDORA"
+ ],
+ "JUB-136": [
+  "JOYERIA",
+  "JUEGOS"
+ ],
+ "DVA-370": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BAM-11": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BFC-136": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-358": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "CAD-301": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "TOP-102": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-366": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "BAM-16": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "CAD-309": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DVA-345": [
+  "JOYERIA",
+  "ARETES / ARGOLLAS / EARCUFF / TOPOS"
+ ],
+ "DPL-190": [
+  "JOYERIA",
+  "PULSERAS / AROS / PULSERA / PANDORA"
+ ],
+ "PIN-1003": [
+  "ACCESORIOS PELO",
+  "PINZAS"
+ ],
+ "PIN-1127": [
+  "ACCESORIOS PELO",
+  "PINZAS"
+ ],
+ "PIN-1129": [
+  "ACCESORIOS PELO",
+  "PINZAS"
+ ],
+ "PIN-1135": [
+  "ACCESORIOS PELO",
+  "PINZAS"
+ ],
+ "A-G063": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-N121": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ME-B794": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A101": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "A-G049": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ME-B362": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-N122": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A104": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ME-B333": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A148": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-A110": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "B-N199": [
+  "HOGAR",
+  "MEDIAS"
+ ],
+ "ST1356": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "ST1362": [
+  "BOLSOS",
+  "CARTERAS"
+ ],
+ "ST1257": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "ST1337": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "ST1353": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "ST1263": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "ST1306": [
+  "BOLSOS",
+  "MANOS LIBRES"
+ ],
+ "7703378004146": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004153": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004160": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004191": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004207": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004214": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378417014": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378688209": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378004108": [
+  "MAQUILLAJE",
+  "PESTANIÑAS"
+ ],
+ "7703378004344": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378004351": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378012301": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378503007": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378938199": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378006737": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378011625": [
+  "MAQUILLAJE",
+  "SOMBRAS / SOMBRA EN PASTA / SOMBRA LIQUIDA"
+ ],
+ "7703378356924": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378106512": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378433427": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378127623": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378152991": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378465329": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378851139": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378000018": [
+  "MAQUILLAJE",
+  "CONTORNOS"
+ ],
+ "7703378002678": [
+  "MAQUILLAJE",
+  "CONTORNOS"
+ ],
+ "7703378695153": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378097681": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378808997": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378776128": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378571860": [
+  "MAQUILLAJE",
+  "BASE"
+ ],
+ "7703378202269": [
+  "MAQUILLAJE",
+  "BASE"
+ ],
+ "7703378993327": [
+  "MAQUILLAJE",
+  "BASE"
+ ],
+ "7703378149199": [
+  "MAQUILLAJE",
+  "BASE"
+ ],
+ "7703378859371": [
+  "MAQUILLAJE",
+  "BASE"
+ ],
+ "7703378009516": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378009547": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378009554": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378786028": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378504950": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378528765": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378605923": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378004177": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378010130": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378903784": [
+  "MAQUILLAJE",
+  "DELINEADORES"
+ ],
+ "7703378470149": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378453852": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378602137": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378283336": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378002142": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378002159": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378002166": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378004368": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378250093": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378749528": [
+  "MAQUILLAJE",
+  "POLVOS"
+ ],
+ "7703378013063": [
+  "MAQUILLAJE",
+  "PRIMER"
+ ],
+ "7703378012660": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378012691": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378012714": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378497399": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378072930": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378709232": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378110922": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378044241": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378472099": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378061293": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378577800": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378978645": [
+  "MAQUILLAJE",
+  "RUBOR"
+ ],
+ "7703378792715": [
+  "MAQUILLAJE",
+  "CORRECTORES"
+ ],
+ "7703378745636": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "7703378989368": [
+  "MAQUILLAJE",
+  "BRILLOS / TINTAS / BALSAMOS"
+ ],
+ "K42-2": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K51-3": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K89-1": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K42-3": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K20-18": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K12-109": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K12-85": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ],
+ "K42-11": [
+  "HOGAR",
+  "TERMOS / TAZAS"
+ ]
+}
